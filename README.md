@@ -1,4 +1,4 @@
-### Hi there 👋
+C#, Unity를 주로 하는 신입 프로그래머 입니다!
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjh1008)](https://solved.ac/kjh1008/)
 
 <!--
