@@ -1,4 +1,4 @@
-C#, Unity를 주로 하는 주니어 프로그래머 입니다!
+Unity, C# 주로 쓰는 2년차 게임 클라이언트 프로그래머 입니다!
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjh1008)](https://solved.ac/kjh1008/)
 
